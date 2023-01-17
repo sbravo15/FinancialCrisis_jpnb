@@ -1,3 +1,4 @@
-# Worst 5 Financial Crisis of the last century
-This project aim is to explore and visualize the worst five financial crisis of the last century through a Jupyter Notebook.
-Making use of different packages like pandas, matlib etc. 
+# The Great Recession 2008
+This project aims to explore and visualize different economic indicators leading to the financial crisis of 2008.
+
+We'll be making use of different packages like pandas, matlib etc. 
