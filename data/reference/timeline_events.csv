@@ -1,0 +1,12 @@
+crisis_id,event_date,event_label,event_type
+gfc_2008,2007-08-09,BNP Paribas funds freeze,crack
+gfc_2008,2008-09-15,Lehman Brothers bankruptcy,system_break
+gfc_2008,2008-10-03,TARP signed,policy
+
+dotcom_2000,2000-03-10,NASDAQ peak,crack
+dotcom_2000,2001-09-17,Markets reopen after 9/11,system_break
+
+asian_1997,1997-07-02,Thai baht devaluation,system_break
+asian_1997,1997-10-27,Asian markets plunge,system_break
+
+sl_1980s,1989-08-09,FIRREA enacted,policy

@@ -1,0 +1,5 @@
+crisis_id,crisis_name,region,start_date,systemic_break_date,spillover_end_date,notes
+gfc_2008,Global Financial Crisis,Global,2007-01-01,2008-09-15,2010-12-31,Lehman bankruptcy used as systemic break marker
+dotcom_2000,Dot-com Crash,United States,2000-03-01,2000-04-14,2002-12-31,Equity-led unwind with investment contraction
+asian_1997,Asian Financial Crisis,Asia,1997-07-01,1997-10-27,1999-12-31,Currency and banking stress propagated across region
+sl_1980s,Savings and Loan Crisis,United States,1986-01-01,1989-08-09,1992-12-31,Credit institution insolvency and cleanup period

@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data drops (keep folders with .gitkeep)
+data/raw/fred/*.csv
+data/raw/other/*.csv
+data/external/*
+
+data/processed/*.csv

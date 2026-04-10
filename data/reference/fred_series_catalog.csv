@@ -1,0 +1,19 @@
+series_id,indicator_name,domain,phase_default,frequency,source,notes
+CSUSHPINSA,Case-Shiller U.S. National Home Price Index,housing,pre_crisis,monthly,FRED,Home-price build-up and reversal
+HOUST,Housing Starts,housing,pre_crisis,monthly,FRED,Construction cycle sensitivity
+PERMIT,Building Permits,housing,pre_crisis,monthly,FRED,Forward-looking housing activity
+MORTGAGE30US,30-Year Fixed Mortgage Rate,housing,pre_crisis,weekly,FRED,Financing condition proxy
+T10Y2Y,10Y-2Y Treasury Spread,rates,pre_crisis,daily,FRED,Yield-curve slope warning
+DRSFRMACBS,Delinquency Rate - Single Family Mortgage,credit,cracks,quarterly,FRED,Credit deterioration in housing
+BAA10Y,Baa Corporate Bond Spread,credit,cracks,monthly,FRED,Corporate risk pricing
+BAMLH0A0HYM2,High Yield OAS,credit,cracks,daily,FRED,Credit stress regime change
+TEDRATE,TED Spread,liquidity,system_break,daily,FRED,Interbank funding stress
+VIXCLS,VIX Close,markets,system_break,daily,FRED,Equity volatility stress
+NASDAQCOM,NASDAQ Composite Index,markets,system_break,daily,FRED,Longer-history equity stress proxy
+SP500,S&P 500 Index,markets,system_break,daily,FRED,Useful modern equity proxy (limited historical coverage in this endpoint)
+STLFSI4,St. Louis Fed Financial Stress Index,stress,system_break,weekly,FRED,System-wide financial stress
+ICSA,Initial Jobless Claims,labor,spillover,weekly,FRED,Early labor deterioration
+UNRATE,Civilian Unemployment Rate,labor,spillover,monthly,FRED,Lagging labor damage indicator
+INDPRO,Industrial Production Index,real_economy,spillover,monthly,FRED,Production contraction proxy
+UMCSENT,Consumer Sentiment,sentiment,spillover,monthly,FRED,Demand confidence channel
+USREC,NBER Recession Indicator,regime,all_phases,monthly,FRED,Useful for recession shading
